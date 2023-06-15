@@ -1,3 +1,3 @@
-function submit(data) {
+function handleRegister(data) {
   let register = "yes";
 }
